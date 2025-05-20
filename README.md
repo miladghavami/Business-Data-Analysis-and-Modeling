@@ -3,14 +3,14 @@ This repository contains a series of Excel-based data analysis challenges and so
 
 🗂 Contents by Chapter
 # Chapter 1 – Business Data Summarization
-File: Chapter_1_Solution.xlsx
+File: Chapter_1.xlsx
 
 Task: Summarized 30 days of sales data using key metrics like totals, averages, min/max, and standard deviation.
 
 Tools: Basic Excel formulas (SUM, AVERAGE, STDEV)
 
 # Chapter 2 – Operational Data Visualization
-File: Chapter_2_Solution.xlsx
+File: Chapter_2.xlsx
 
 Task:
 
@@ -23,7 +23,7 @@ Built a scatter plot to analyze correlation between customer count and sales
 Tools: Charts, AVERAGE, COUNTIFS, Scatter plot, Histogram bins
 
 # Chapter 4 – Probability Distributions & Simulation
-File: Chapter_4_Solution.xlsx
+File: Chapter_4.xlsx
 
 Sheets:
 
@@ -34,7 +34,7 @@ Exponential and Poisson: Simulated customer arrivals and service times using loo
 Tools: NORM.DIST, EXPON.DIST, POISSON.DIST, Simulation logic
 
 # Chapter 5 – Correlation & Covariance
-File: Chapter_5_Solution.xlsx
+File: Chapter_5.xlsx
 
 Task:
 
@@ -45,14 +45,14 @@ Built a correlation matrix comparing multiple variables
 Tools: COVARIANCE.P, CORREL, Matrix design
 
 # Chapter 6 – Expected Value Analysis
-File: Chapter_6_Solution.xlsx
+File: Chapter_6.xlsx
 
 Task: Computed expected value from multiple business outcome scenarios with assigned probabilities
 
 Tools: SUMPRODUCT, Decision-making logic
 
-Chapter 7 – Bayesian Analysis
-File: Chapter_7_Solution.xlsx
+# Chapter 7 – Bayesian Analysis
+File: Chapter_7.xlsx
 
 Task: Used prior and conditional probabilities to compute:
 
@@ -63,7 +63,7 @@ P(Counterfeit | Reported Counterfeit)
 Tools: Bayes' Theorem in Excel formulas
 
 # Chapter 8 – Linear Regression
-File: Chapter_8_Challenge.xlsx
+File: Chapter_8.xlsx
 
 Task: Performed linear regression to model relationship between customer count (X) and sales (Y)
 
